@@ -16,27 +16,29 @@
 - 🔭 I’m currently working on: **Turf Management App** using **Java**
 - 🌱 Learning more about **System Design**, **REST APIs**, and **Cloud Services**
 - 🧠 Interests: **Backend Development**, **Data Visualization**, and **DevOps**
-- 📫 How to reach me: **kokilaysuh5@gmail.com** *(replace with your email)*
+- 📫 How to reach me: **kokilaysuh5@gmail.com** 
 
 ---
 
-### 🚀 Tech Stack
+ 
+
+ ### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="50" height="50"/>
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushKokil&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKokil&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -54,14 +56,4 @@
 > 💡 I believe **clean code and well-structured data** can solve almost any problem!
 
 ---
-
-*⚡ Make sure to replace `your-username`, email, and LinkedIn link with your actual info.*
-
----
-
-Would you like me to:
-- Generate a **banner image** with your name and icons?
-- Help you create the GitHub repo step-by-step?
-- Add a **Power BI project showcase** in this README?
-
-Let me know!
+ 
